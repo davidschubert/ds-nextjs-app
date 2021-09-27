@@ -2,7 +2,8 @@
   "default": "mensaje en español",
   "languages": {
     "es": "Español",
-    "en": "Inglés"
+    "en": "Inglés",
+    "de": "Alemán"
   },
   "phrases": {
     "features": "Caracteristicas",

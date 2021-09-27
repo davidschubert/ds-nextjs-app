@@ -2,7 +2,8 @@
   "default": "Message in english",
   "languages": {
     "es": "Spanish",
-    "en": "English"
+    "en": "English",
+    "de": "German"
   },
   "phrases": {
     "features": "Features",

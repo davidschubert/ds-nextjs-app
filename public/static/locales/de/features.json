@@ -1,0 +1,14 @@
+{
+  "features": {
+    "seo": "Der Vorteil dieses Ansatzes ist die Möglichkeit, Rich User Experiences auf einheitliche Weise zu schaffen, ohne die Faktoren der Suchmaschinenoptimierung (SEO) zu beeinträchtigen, die der Schlüssel zu einem guten Ranking bei Google und anderen Suchmaschinen sind.",
+    "reduxSaga": "Ist eine Bibliothek, die darauf abzielt, Anwendungs-Nebeneffekte (d. h. asynchrone Dinge wie das Abrufen von Daten und unreine Dinge wie den Zugriff auf den Browser-Cache) einfacher zu verwalten, effizienter auszuführen, einfacher zu testen und Fehler besser zu handhaben.",
+    "nextI18next": "Ist ein Plugin für Next.js-Projekte, mit dem Sie Übersetzungen schnell und einfach zum Laufen bringen können und gleichzeitig SSR, mehrere Namespaces mit Code-Aufteilung usw. vollständig unterstützen.",
+    "i18next": "Ist ein in und für JavaScript geschriebenes Internationalisierungs-Framework. Aber es ist viel mehr als das.",
+    "redux": "Ist ein vorhersehbarer Zustandscontainer für JavaScript-Apps.",
+    "reselect": "Einfache „Selektor“-Bibliothek für Redux (und andere), inspiriert von Gettern in NuclearJS, Abonnements in Re-Frame und diesem Vorschlag von Speedskater.",
+    "immer": "(Deutsch für: immer) ist ein kleines Paket, mit dem Sie bequemer mit unveränderlichen Zuständen arbeiten können. Es basiert auf dem Copy-on-Write-Mechanismus.",
+    "testingLibraryReact": "Einfache und vollständige React DOM-Testprogramme, die gute Testpraktiken fördern.",
+    "typefaces": "Self-Hosting ist deutlich schneller. Das Laden einer Schriftart von Google Fonts oder einem anderen gehosteten Schriftartendienst fügt eine zusätzliche (blockierende) Netzwerkanfrage hinzu.",
+    "emotion": "Emotion ist eine Bibliothek zum Schreiben von CSS-Stilen mit JavaScript. Es bietet eine leistungsstarke und vorhersehbare Stilkomposition sowie eine großartige Entwicklererfahrung mit Funktionen wie Quellzuordnungen, Labels und Testdienstprogrammen."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "default": "Nachricht auf Englisch",
+  "languages": {
+    "es": "Spanisch",
+    "en": "Englisch",
+    "de": "Deutsch"
+  },
+  "phrases": {
+    "features": "Features",
+    "apiExample": "API Beispiel",
+    "getShowcases": "Unternehmen / Websites die Next.js verwenden"
+  }
+}
